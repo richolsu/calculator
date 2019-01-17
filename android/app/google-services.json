@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "360456848236",
+    "firebase_url": "https://contractor-calculator.firebaseio.com",
+    "project_id": "contractor-calculator",
+    "storage_bucket": "contractor-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360456848236:android:4e92dbbdb3bf9083",
+        "android_client_info": {
+          "package_name": "com.contractorcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360456848236-ngp0ue8nuldcf8efdqbfglj54u28omu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ9EgwxiiGoLk6b_4CzlvyEColxyEZDpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360456848236:android:e6858d77e2e981ef",
+        "android_client_info": {
+          "package_name": "com.fieldpulse.contractorcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360456848236-ngp0ue8nuldcf8efdqbfglj54u28omu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ9EgwxiiGoLk6b_4CzlvyEColxyEZDpU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
